@@ -1,6 +1,6 @@
 # StayFit with Abdul - Body Posture Detection & Rep Counter
 
-![StayFit with Abdul Demo]
+![StayFit with Abdul Demo](https://github.com/Abdul-Rehman-Astro/Stayfit/blob/main/Project%20photos/5.png)
 
 **StayFit with Abdul** is an innovative Python application designed to assist fitness enthusiasts and athletes in tracking their workout repetitions accurately. Developed with a focus on real-time body posture detection, the application leverages the power of the OpenCV library to analyze body postures through a camera feed. With the added capabilities of the Pillow library, it offers a seamless user experience with interactive visual feedback.
 
